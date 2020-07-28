@@ -1,1 +1,1 @@
-С++ projects
+С++ & Python projects
